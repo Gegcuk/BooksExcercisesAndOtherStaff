@@ -1,4 +1,4 @@
-package uk.gegc.modernJavaInAction.part2;
+package uk.gegc.modernJavaInAction.chapter2;
 
 import java.util.List;
 import java.util.function.Predicate;

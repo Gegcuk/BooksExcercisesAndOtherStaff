@@ -1,4 +1,4 @@
-package uk.gegc.modernJavaInAction.part1;
+package uk.gegc.modernJavaInAction.chapter1;
 
 import java.util.List;
 
