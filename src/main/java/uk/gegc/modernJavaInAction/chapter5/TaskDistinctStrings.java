@@ -1,4 +1,4 @@
-package uk.gegc.modernJavaInAction.chapter4;
+package uk.gegc.modernJavaInAction.chapter5;
 
 import java.util.Arrays;
 import java.util.List;
