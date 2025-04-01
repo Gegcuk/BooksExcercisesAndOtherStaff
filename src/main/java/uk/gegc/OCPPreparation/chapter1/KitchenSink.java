@@ -5,6 +5,7 @@ public class KitchenSink {
 
     public static void main(String[] args) {
         int numKnives;
+        int testCommit;
         System.out.print("""
                 "# forks = " + numForks +
                  " # knives = " + numKnives +
